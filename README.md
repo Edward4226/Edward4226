@@ -33,22 +33,21 @@
 
 ## 精选 / Selected
 
-<table>
-<tr>
-<td width="58%" valign="top">
-  <sub>01 · PUBLICATION</sub>
-  <h3><a href="https://edward4226.github.io/">枢机 / The Seam</a></h3>
-  <p>Data-driven essays on the places where the data has already turned and consensus has not.</p>
-  <p><a href="https://edward4226.github.io/blog/">Read the archive →</a></p>
-</td>
-<td width="42%" valign="top">
-  <sub>02 · PRIVATE BUILD</sub>
-  <h3>Next agent system</h3>
-  <p>Turning long-running agent work into inspectable, accountable tasks.</p>
-  <p><code>IN DEVELOPMENT</code></p>
-</td>
-</tr>
-</table>
+### 01 · Publication
+
+#### [枢机 / The Seam](https://edward4226.github.io/)
+
+Data-driven essays on the places where the data has already turned and consensus has not.
+
+[Read the archive →](https://edward4226.github.io/blog/)
+
+### 02 · Private build
+
+#### Next agent system
+
+Turning long-running agent work into inspectable, accountable tasks.
+
+`IN DEVELOPMENT`
 
 ## 最近写作 / Latest writing
 

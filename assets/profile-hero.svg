@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Edward T — 枢机 / The Seam</title>
+  <desc id="desc">A dark editorial banner for Edward T, an independent builder and writer working on data, judgment, and agent systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161310"/>
+      <stop offset="0.58" stop-color="#100F0F"/>
+      <stop offset="1" stop-color="#1B1511"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="1" r="0.9">
+      <stop offset="0" stop-color="#C89B7B" stop-opacity="0.18"/>
+      <stop offset="0.55" stop-color="#C89B7B" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#C89B7B" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#E8E0D2" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+
+  <text x="64" y="52" fill="#C89B7B" font-family="Georgia, 'Times New Roman', serif" font-size="14" letter-spacing="3">EDWARD T / 枢机</text>
+  <text x="64" y="137" fill="#E8E0D2" font-family="Georgia, 'Times New Roman', serif" font-size="68" letter-spacing="-1.5">The Seam</text>
+  <text x="66" y="180" fill="#C9C1B5" font-family="'Songti SC', 'Noto Serif SC', Georgia, serif" font-size="21" letter-spacing="1">在不确定的世界里，留下一些确定、可检验的判断。</text>
+
+  <path d="M64 226 H814" stroke="#C89B7B" stroke-width="2"/>
+  <path d="M882 238 H1136" stroke="#C89B7B" stroke-width="2" stroke-opacity="0.62"/>
+  <path d="M814 226 L882 238" stroke="#C89B7B" stroke-width="1.5" stroke-opacity="0.62"/>
+
+  <text x="64" y="272" fill="#8F877C" font-family="'Courier New', monospace" font-size="13" letter-spacing="2">INDEPENDENT BUILDER &amp; WRITER</text>
+  <text x="1136" y="280" fill="#8F877C" font-family="'Courier New', monospace" font-size="13" letter-spacing="2" text-anchor="end">DATA / AGENTS / JUDGMENT</text>
+
+  <text x="1046" y="190" fill="none" stroke="#E8E0D2" stroke-opacity="0.09" stroke-width="2" font-family="'Songti SC', 'Noto Serif SC', Georgia, serif" font-size="164" text-anchor="middle">枢</text>
+</svg>
